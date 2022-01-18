@@ -1,16 +1,1 @@
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-andun 123
-
+/usr/bin/bash: qw: command not found
